@@ -4,12 +4,13 @@
   </a>
 </p>
 <h5 align="center"> 
-  <code><a href="https://www.reddit.com/user/ikamii3" title="Reddit"><img width="22" src="images/reddit.svg"> Reddit</a></code>
+  <code><a href="https://www.reddit.com/user/ikamii3" title="Reddit"><img width="22" src="images/reddit.svg"> ikamii3</a></code>
 </h5>
 
 <p align="center">
   <!-- 🔭 I’m currently working on  -->
-  🌱 Currently learning <b>Golang</b><br>
+  🌩️ Cloud Dev 🌩️<br>
+  🌱 Currently learning <b>JS</b> and <b>Node.js</b><br>
   ☁️ Interested in everything about <b>Cloud</b><br>
   🎮 Love to play <b>Video Games</b><br>
   <!-- 👯 I’m looking to collaborate on ... <br> -->
@@ -21,21 +22,32 @@
 
 <h2 align="center">💻 Languages 💻</h2>
 <br>
-<p align="center">
+<!-- <p align="center">
   <code><img title="Python" height="25" src="images/python.svg"></code>
   <code><img title="Bash" height="25" src="images/bash.svg"></code>
   <code><img title="C++" height="25" src="images/cpp3.svg"></code>
   <code><img title="C++" height="25" src="images/c.svg"></code>
+</p> -->
+<p align="center"> 
+  <a href="https://github.com/ikamii">
+    <img src="https://skillicons.dev/icons?i=python,bash,js"> 
+  </a> 
 </p>
 <hr>
 <h2 align="center">🛠️ Tools 🛠️</h2>
 <br>
-<p align="center">
+<!-- <p align="center">
   <code><img title="Docker" height="25" src="images/docker.svg"></code>
   <code><img title="Kubernetes" height="25" src="images/kubernetes.svg"></code>
   <code><img title="Helm" height="25" src="images/helm.svg"></code>
   <code><img title="Terraform" height="25" src="images/terraform.svg"></code>
   <code><img title="Git" height="25" src="images/git.svg"></code>
+</p> -->
+<p align="center"> 
+  <a href="https://github.com/ikamii">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,ansible,terraform,git,nodejs,discord,bots,discordjs,githubactions&perline=5"> 
+    
+  </a> 
 </p>
 <hr>
 <h2 align="center">🔥 Stats 🔥</h2>
