@@ -30,7 +30,7 @@
 </p> -->
 <p align="center"> 
   <a href="https://github.com/ikamii">
-    <img src="https://skillicons.dev/icons?i=python,bash,js"> 
+    <img src="https://skillicons.dev/icons?i=python,bash,html,css,js"> 
   </a> 
 </p>
 <hr>
