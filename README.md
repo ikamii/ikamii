@@ -10,7 +10,7 @@
 <p align="center">
   <!-- 🔭 I’m currently working on  -->
   🌩️ Cloud Dev 🌩️<br>
-  🌱 Currently learning <b>JS</b> and <b>Node.js</b><br>
+  🌱 Currently learning <b>Go</b><br>
   ☁️ Interested in everything about <b>Cloud</b><br>
   🎮 Love to play <b>Video Games</b><br>
   <!-- 👯 I’m looking to collaborate on ... <br> -->
