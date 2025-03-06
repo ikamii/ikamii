@@ -46,7 +46,7 @@
 </p> -->
 <p align="center"> 
   <a href="https://github.com/ikamii">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,ansible,terraform,git,discord,bots,discordjs,githubactions&perline=5"> 
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,ansible,terraform,git,discord,bots,githubactions&perline=5"> 
     
   </a> 
 </p>
