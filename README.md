@@ -30,7 +30,8 @@
 </p> -->
 <p align="center"> 
   <a href="https://github.com/ikamii">
-    <img src="https://skillicons.dev/icons?i=python,bash,html,css,js"> 
+<!--     <img src="https://skillicons.dev/icons?i=python,bash,html,css,js">  -->
+    <img src="https://skillicons.dev/icons?i=python,bash,go"> 
   </a> 
 </p>
 <hr>
@@ -45,7 +46,7 @@
 </p> -->
 <p align="center"> 
   <a href="https://github.com/ikamii">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,ansible,terraform,git,nodejs,discord,bots,discordjs,githubactions&perline=5"> 
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,ansible,terraform,git,discord,bots,discordjs,githubactions&perline=5"> 
     
   </a> 
 </p>
