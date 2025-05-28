@@ -19,6 +19,12 @@
   <!-- 📫 How to reach me: ... <br> -->
 </p>
 
+<h2 align="center">⚡️ Badges ⚡️</h2>
+<p align="center">
+  <a href="https://www.credly.com/badges/b037236a-e7cb-4ec1-beae-9420823902c6/public_url">
+    <img src="https://images.credly.com/size/680x680/images/20936872-ca23-44da-a4bc-db39db3468b6/blob" width="120">
+  </a>
+</p>
 
 <h2 align="center">💻 Languages 💻</h2>
 <br>
@@ -34,7 +40,7 @@
     <img src="https://skillicons.dev/icons?i=python,bash,go"> 
   </a> 
 </p>
-<hr>
+<!-- <hr> -->
 <h2 align="center">🛠️ Tools 🛠️</h2>
 <br>
 <!-- <p align="center">
@@ -50,7 +56,7 @@
     
   </a> 
 </p>
-<hr>
+<!-- <hr> -->
 <h2 align="center">🔥 Stats 🔥</h2>
 <br>
 <p align=center>
