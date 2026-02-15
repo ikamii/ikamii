@@ -9,7 +9,7 @@
 
 <p align="center">
   <!-- 🔭 I’m currently working on  -->
-  🌩️ Cloud Dev 🌩️<br>
+  🌩️ DevOps 🌩️<br>
   🌱 Currently learning <b>Go</b><br>
   ☁️ Interested in everything about <b>Cloud</b><br>
   🎮 Love to play <b>Video Games</b><br>
