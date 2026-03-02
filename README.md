@@ -1,104 +1,87 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7AA2F7,100:BB9AF7&height=220&section=header&text=ikamii&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20%7C%20Infrastructure%20%7C%20Automation&descSize=18&descAlignY=55&descAlign=50" width="100%">
+
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=30&duration=4000&color=7BA4F9&center=true&random=false&width=435&lines=Hi+there!;Welcome+to+my+GitHub!" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&random=false&width=500&lines=%24+whoami;Cloud+Engineer;Infrastructure+as+Code;Kubernetes+%7C+Ansible+%7C+Terraform;Automating+all+the+things+%F0%9F%9A%80" alt="Typing SVG">
   </a>
 </p>
-<h5 align="center"> 
-  <code><a href="https://www.reddit.com/user/ikamii3" title="Reddit"><img width="22" src="images/reddit.svg"> ikamii3</a></code>
-</h5>
 
 <p align="center">
-  <!-- 🔭 I’m currently working on  -->
-  🌩️ DevOps 🌩️<br>
-  🌱 Currently learning <b>Go</b><br>
-  ☁️ Interested in everything about <b>Cloud</b><br>
-  🎮 Love to play <b>Video Games</b><br>
-  <!-- 👯 I’m looking to collaborate on ... <br> -->
-  <!-- 🤔 I’m looking for help with ... <br> -->
-  <!-- 💬 Ask me about ... <br> -->
-  <!-- 📫 How to reach me: ... <br> -->
+  <a href="https://www.reddit.com/user/ikamii3">
+    <img src="https://img.shields.io/badge/Reddit-ikamii3-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit">
+  </a>
+  <a href="https://github.com/ikamii?tab=followers">
+    <img src="https://img.shields.io/github/followers/ikamii?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27&color=7AA2F7" alt="GitHub Followers">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=ikamii&style=for-the-badge&color=7AA2F7&label=VISITORS" alt="Profile Views">
 </p>
 
-<h2 align="center">⚡️ Badges ⚡️</h2>
+---
+
+```yaml
+# about.yml
+name: ikamii
+role: Cloud Engineer
+currently_learning: Go
+stack: [Kubernetes, Ansible, Terraform]
+interests:
+  - Cloud Infrastructure
+  - Automation
+  - Container Orchestration
+fun_fact: I love playing Video Games 🎮
+```
+
+---
+
+<h2 align="center">⚡ Badges</h2>
+
 <p align="center">
   <a href="https://www.credly.com/badges/b037236a-e7cb-4ec1-beae-9420823902c6/public_url">
-    <img src="https://images.credly.com/size/680x680/images/20936872-ca23-44da-a4bc-db39db3468b6/blob" width="120">
+    <img src="https://images.credly.com/size/680x680/images/20936872-ca23-44da-a4bc-db39db3468b6/blob" width="120" alt="AWS Certified">
   </a>
 </p>
 
-<h2 align="center">💻 Languages 💻</h2>
-<br>
-<!-- <p align="center">
-  <code><img title="Python" height="25" src="images/python.svg"></code>
-  <code><img title="Bash" height="25" src="images/bash.svg"></code>
-  <code><img title="C++" height="25" src="images/cpp3.svg"></code>
-  <code><img title="C++" height="25" src="images/c.svg"></code>
-</p> -->
-<p align="center"> 
+---
+
+<h2 align="center">💻 Languages</h2>
+
+<p align="center">
   <a href="https://github.com/ikamii">
-<!--     <img src="https://skillicons.dev/icons?i=python,bash,html,css,js">  -->
-    <img src="https://skillicons.dev/icons?i=python,bash,go"> 
-  </a> 
+    <img src="https://skillicons.dev/icons?i=python,bash,go&theme=dark" alt="Languages">
+  </a>
 </p>
-<!-- <hr> -->
-<h2 align="center">🛠️ Tools 🛠️</h2>
-<br>
-<!-- <p align="center">
-  <code><img title="Docker" height="25" src="images/docker.svg"></code>
-  <code><img title="Kubernetes" height="25" src="images/kubernetes.svg"></code>
-  <code><img title="Helm" height="25" src="images/helm.svg"></code>
-  <code><img title="Terraform" height="25" src="images/terraform.svg"></code>
-  <code><img title="Git" height="25" src="images/git.svg"></code>
-</p> -->
-<p align="center"> 
+
+<h2 align="center">🛠️ Tools</h2>
+
+<p align="center">
   <a href="https://github.com/ikamii">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,ansible,terraform,git,discord,bots,githubactions&perline=5"> 
-    
-  </a> 
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,ansible,terraform,linux,git,gitlab,githubactions,discord,bots&perline=5&theme=dark" alt="Tools">
+  </a>
 </p>
-<!-- <hr> -->
-<h2 align="center">🔥 Stats 🔥</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <!-- <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=ikamii&theme=react&border=61dafb&hide_border=true" alt="ikamii" />
-    </a> -->
-    <a href="https://git.io/streak-stats"><img align="left" width=390 src="https://streak-stats.demolab.com?user=ikamii&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=ikamii&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikamii&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=7BA4F9&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-    </a>
-  </div>
-  <br>
-  <br>
 
-  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=ikamii&theme=tokyo-night&bg_color=20232a&hide_border=true" width="100%"/> -->
-</p> 
+---
 
-<!-- <hr>
-<h2 align="center">⚡️ Social ⚡️</h2>  
-<h5 align="center"> 
-  <code><a href="https://www.reddit.com/user/ikamii3" title="Reddit"><img width="22" src="images/reddit.svg"> Reddit</a></code>
-</h5>
+<h2 align="center">📌 Projects</h2>
 
-<hr> -->
+<p align="center">
+  <a href="https://github.com/ikamii/kubernetes-notes">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=ikamii&repo=kubernetes-notes&theme=tokyonight&hide_border=true&border_radius=10" alt="kubernetes-notes">
+  </a>
+</p>
 
-<h2 align="center">📚 Repositories 📚</h2>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/ikamii/udacity-cpp-nd" title="Udacity C++ Nanodegree"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ikamii&repo=udacity-cpp-nd&theme=tokyonight&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/ikamii/udacity-self-driving" title="Self Driving"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ikamii&repo=udacity-self-driving&theme=tokyonight&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<a align="left" href="https://github.com/ikamii/kubernetes" title="kubernetes"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ikamii&repo=kubernetes&theme=tokyonight&border_color=61dafb&border_radius=10"></a>
-<br/><br/><br/><br/><br/><br/>
-<!-- <h4 align="center">
-  <a href="https://github.com/ikamii?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4> -->
+---
 
-![Snake animation](https://github.com/ikamii/ikamii/blob/output/github-contribution-grid-snake-dark.svg)
+<h2 align="center">📊 Activity</h2>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=ikamii&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%">
+  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ikamii&theme=tokyonight&utcOffset=3" alt="Productive Time" width="49%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ikamii&theme=tokyo-night&bg_color=1a1b27&hide_border=true&area=true" width="98%" alt="Activity Graph">
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:7AA2F7,100:BB9AF7&height=120&section=footer" width="100%">
