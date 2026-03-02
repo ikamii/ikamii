@@ -61,7 +61,7 @@ fun_fact: I love playing Video Games 🎮
 
 ---
 
-<h2 align="center">📌 Projects</h2>
+<h2 align="center">📌 Repos</h2>
 
 <p align="center">
   <a href="https://github.com/ikamii/kubernetes-notes">
