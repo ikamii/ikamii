@@ -37,13 +37,13 @@ fun_fact: I love playing Video Games 🎮
 
 <p align="center">
   <a href="https://www.credly.com/badges/40d73e06-526c-4a65-86e1-dfb78e488258/public_url">
-    <img src="https://images.credly.com/size/680x680/images/8b8ed108-2bfa-4f24-8d29-22a3f73e8cf3/image.png" width="120" alt="CKA">
+    <img src="https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="120" alt="CKA">
   </a>
   <a href="https://www.credly.com/badges/b037236a-e7cb-4ec1-beae-9420823902c6/public_url">
     <img src="https://images.credly.com/size/680x680/images/20936872-ca23-44da-a4bc-db39db3468b6/blob" width="120" alt="LFS458">
   </a>
   <a href="https://www.credly.com/badges/88219415-ef1a-43b2-91d4-df8b73fbfe82/public_url">
-    <img src="https://images.credly.com/size/680x680/images/8b8ed108-2bfa-4f24-8d29-22a3f73e8cf3/image.png" width="120" alt="LFS460">
+    <img src="https://images.credly.com/size/680x680/images/c0530bf5-afe6-4d28-9883-1f97645e4211/blob" width="120" alt="LFS460">
   </a>
 </p>
 
